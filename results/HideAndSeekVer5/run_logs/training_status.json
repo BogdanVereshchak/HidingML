@@ -1,0 +1,123 @@
+{
+    "SeekerBrain": {
+        "checkpoints": [
+            {
+                "steps": 717995,
+                "file_path": "results\\HideAndSeekVer5\\SeekerBrain\\SeekerBrain-717995.onnx",
+                "reward": 0.9258944819323786,
+                "creation_time": 1765272713.0762186,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeekVer5\\SeekerBrain\\SeekerBrain-717995.pt"
+                ]
+            },
+            {
+                "steps": 999963,
+                "file_path": "results\\HideAndSeekVer5\\SeekerBrain\\SeekerBrain-999963.onnx",
+                "reward": 0.922996593150726,
+                "creation_time": 1765274440.4765754,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeekVer5\\SeekerBrain\\SeekerBrain-999963.pt"
+                ]
+            },
+            {
+                "steps": 1261795,
+                "file_path": "results\\HideAndSeekVer5\\SeekerBrain\\SeekerBrain-1261795.onnx",
+                "reward": 1.0045861850473254,
+                "creation_time": 1765274851.031302,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeekVer5\\SeekerBrain\\SeekerBrain-1261795.pt"
+                ]
+            },
+            {
+                "steps": 1499936,
+                "file_path": "results\\HideAndSeekVer5\\SeekerBrain\\SeekerBrain-1499936.onnx",
+                "reward": 1.001329264913996,
+                "creation_time": 1765275438.855478,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeekVer5\\SeekerBrain\\SeekerBrain-1499936.pt"
+                ]
+            },
+            {
+                "steps": 1575253,
+                "file_path": "results\\HideAndSeekVer5\\SeekerBrain\\SeekerBrain-1575253.onnx",
+                "reward": 1.003394481060617,
+                "creation_time": 1765275569.3455534,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeekVer5\\SeekerBrain\\SeekerBrain-1575253.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1575253,
+            "file_path": "results\\HideAndSeekVer5\\SeekerBrain.onnx",
+            "reward": 1.003394481060617,
+            "creation_time": 1765275569.3455534,
+            "auxillary_file_paths": [
+                "results\\HideAndSeekVer5\\SeekerBrain\\SeekerBrain-1575253.pt"
+            ]
+        }
+    },
+    "HiderBrain": {
+        "checkpoints": [
+            {
+                "steps": 717995,
+                "file_path": "results\\HideAndSeekVer5\\HiderBrain\\HiderBrain-717995.onnx",
+                "reward": -0.8128192866487163,
+                "creation_time": 1765272713.1569903,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeekVer5\\HiderBrain\\HiderBrain-717995.pt"
+                ]
+            },
+            {
+                "steps": 999963,
+                "file_path": "results\\HideAndSeekVer5\\HiderBrain\\HiderBrain-999963.onnx",
+                "reward": -0.838165711079325,
+                "creation_time": 1765274440.3865547,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeekVer5\\HiderBrain\\HiderBrain-999963.pt"
+                ]
+            },
+            {
+                "steps": 1261795,
+                "file_path": "results\\HideAndSeekVer5\\HiderBrain\\HiderBrain-1261795.onnx",
+                "reward": -0.960581666479508,
+                "creation_time": 1765274850.9479156,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeekVer5\\HiderBrain\\HiderBrain-1261795.pt"
+                ]
+            },
+            {
+                "steps": 1499936,
+                "file_path": "results\\HideAndSeekVer5\\HiderBrain\\HiderBrain-1499936.onnx",
+                "reward": -0.9172733550270399,
+                "creation_time": 1765275438.7736924,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeekVer5\\HiderBrain\\HiderBrain-1499936.pt"
+                ]
+            },
+            {
+                "steps": 1575253,
+                "file_path": "results\\HideAndSeekVer5\\HiderBrain\\HiderBrain-1575253.onnx",
+                "reward": -0.9512541396864529,
+                "creation_time": 1765275569.260749,
+                "auxillary_file_paths": [
+                    "results\\HideAndSeekVer5\\HiderBrain\\HiderBrain-1575253.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1575253,
+            "file_path": "results\\HideAndSeekVer5\\HiderBrain.onnx",
+            "reward": -0.9512541396864529,
+            "creation_time": 1765275569.260749,
+            "auxillary_file_paths": [
+                "results\\HideAndSeekVer5\\HiderBrain\\HiderBrain-1575253.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

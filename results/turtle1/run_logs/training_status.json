@@ -1,0 +1,29 @@
+{
+    "Turtle": {
+        "checkpoints": [
+            {
+                "steps": 46305,
+                "file_path": "results\\turtle1\\Turtle\\Turtle-46305.onnx",
+                "reward": -2.1165999000271163,
+                "creation_time": 1765220513.3038714,
+                "auxillary_file_paths": [
+                    "results\\turtle1\\Turtle\\Turtle-46305.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 46305,
+            "file_path": "results\\turtle1\\Turtle.onnx",
+            "reward": -2.1165999000271163,
+            "creation_time": 1765220513.3038714,
+            "auxillary_file_paths": [
+                "results\\turtle1\\Turtle\\Turtle-46305.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

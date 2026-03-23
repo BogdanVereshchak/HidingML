@@ -1,0 +1,29 @@
+{
+    "StalkerBrain": {
+        "checkpoints": [
+            {
+                "steps": 350704,
+                "file_path": "results\\hidingAIIter4\\StalkerBrain\\StalkerBrain-350704.onnx",
+                "reward": null,
+                "creation_time": 1765241568.5725849,
+                "auxillary_file_paths": [
+                    "results\\hidingAIIter4\\StalkerBrain\\StalkerBrain-350704.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 350704,
+            "file_path": "results\\hidingAIIter4\\StalkerBrain.onnx",
+            "reward": null,
+            "creation_time": 1765241568.5725849,
+            "auxillary_file_paths": [
+                "results\\hidingAIIter4\\StalkerBrain\\StalkerBrain-350704.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

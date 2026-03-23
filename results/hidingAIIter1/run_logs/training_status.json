@@ -1,0 +1,38 @@
+{
+    "StalkerBrain": {
+        "checkpoints": [
+            {
+                "steps": 499979,
+                "file_path": "results\\hidingAIIter1\\StalkerBrain\\StalkerBrain-499979.onnx",
+                "reward": 8.835646746789708,
+                "creation_time": 1765235767.8297627,
+                "auxillary_file_paths": [
+                    "results\\hidingAIIter1\\StalkerBrain\\StalkerBrain-499979.pt"
+                ]
+            },
+            {
+                "steps": 500043,
+                "file_path": "results\\hidingAIIter1\\StalkerBrain\\StalkerBrain-500043.onnx",
+                "reward": 8.835646746789708,
+                "creation_time": 1765235767.8897297,
+                "auxillary_file_paths": [
+                    "results\\hidingAIIter1\\StalkerBrain\\StalkerBrain-500043.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500043,
+            "file_path": "results\\hidingAIIter1\\StalkerBrain.onnx",
+            "reward": 8.835646746789708,
+            "creation_time": 1765235767.8897297,
+            "auxillary_file_paths": [
+                "results\\hidingAIIter1\\StalkerBrain\\StalkerBrain-500043.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
